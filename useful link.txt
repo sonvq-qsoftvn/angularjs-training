@@ -1,0 +1,3 @@
+https://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/
+
+https://www.toptal.com/angular-js/your-first-angularjs-app-part-2-scaffolding-building-and-testing
